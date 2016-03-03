@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./selectedletters03cicegoog_0126.png"; bbox 0 0 2834 4326; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 132 275 851 344">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 132 275 851 344">
+     <span class='ocr_line' id='line_1_1' title="bbox 132 275 851 344; baseline -0.004 -18"><span class='ocrx_word' id='word_1_1' title='bbox 132 279 188 326; x_wconf 74' lang='lat' dir='ltr'><strong>Aet.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 203 291 225 326; x_wconf 88' lang='lat'><strong>2.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 241 277 296 344; x_wconf 88' lang='lat'>22.]</span> <span class='ocrx_word' id='word_1_4' title='bbox 486 277 654 327; x_wconf 90' lang='lat' dir='ltr'>CICERO&#39;S</span> <span class='ocrx_word' id='word_1_5' title='bbox 679 275 851 326; x_wconf 81' lang='lat' dir='ltr'>LETTERS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 490 495 847 580">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 490 495 847 580">
+     <span class='ocr_line' id='line_1_2' title="bbox 490 495 847 580; baseline -0.003 -22"><span class='ocrx_word' id='word_1_6' title='bbox 490 495 590 559; x_wconf 93' lang='lat' dir='ltr'><strong>VIII.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 626 495 710 580; x_wconf 84' lang='lat' dir='ltr'><em>(Att.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 730 510 760 558; x_wconf 91' lang='lat'><strong>2.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 780 497 847 577; x_wconf 85' lang='lat'><strong>22.)</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 465 651 871 702">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 465 651 871 702">
+     <span class='ocr_line' id='line_1_3' title="bbox 465 651 871 702; baseline -0.005 0"><span class='ocrx_word' id='word_1_10' title='bbox 465 653 605 702; x_wconf 87' lang='lat' dir='ltr'><strong>CICERO</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 629 651 770 702; x_wconf 83' lang='lat' dir='ltr'>ATTICO</span> <span class='ocrx_word' id='word_1_12' title='bbox 795 651 871 701; x_wconf 85' lang='lat' dir='ltr'>SAL.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 610 778 1221 864">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 610 778 1221 864">
+     <span class='ocr_line' id='line_1_4' title="bbox 610 778 1221 864; baseline 0.016 -32"><span class='ocrx_word' id='word_1_13' title='bbox 610 781 616 808; x_wconf 86' lang='lat'><strong>¹</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 666 779 853 843; x_wconf 66' lang='lat' dir='ltr'>mansisses</span> <span class='ocrx_word' id='word_1_15' title='bbox 878 778 1031 864; x_wconf 85' lang='lat' dir='ltr'>profecto</span> <span class='ocrx_word' id='word_1_16' title='bbox 1056 779 1083 841; x_wconf 92' lang='lat' dir='ltr'><strong>si</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1109 779 1221 841; x_wconf 85' lang='lat' dir='ltr'>haec1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1422 4326">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1422 4326">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1422 4326; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1422 4326; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
